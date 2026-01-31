@@ -81,9 +81,13 @@ print("Final Bias (b):", b)
 ## Output:
 
 <img width="593" height="548" alt="image" src="https://github.com/user-attachments/assets/23ebad5e-8e31-437f-9965-165a4590f792" />
+
 <img width="443" height="521" alt="image" src="https://github.com/user-attachments/assets/bcf0b76d-1375-4d8c-9a02-cfcaf854cf15" />
+
 Final Weight (w): 33671.51979690389
 Final Bias (b): 97157.57273469678
+
+
 ​
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
