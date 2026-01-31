@@ -85,6 +85,7 @@ print("Final Bias (b):", b)
 <img width="443" height="521" alt="image" src="https://github.com/user-attachments/assets/bcf0b76d-1375-4d8c-9a02-cfcaf854cf15" />
 
 Final Weight (w): 33671.51979690389
+
 Final Bias (b): 97157.57273469678
 
 
